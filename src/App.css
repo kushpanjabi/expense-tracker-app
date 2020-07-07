@@ -149,3 +149,8 @@ input[type='number'] {
 .list li:hover .delete-btn {
   opacity: 1;
 }
+
+.amt-description {
+  font-size: 12px;
+  font-style: italic;
+}
