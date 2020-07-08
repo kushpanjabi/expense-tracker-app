@@ -1,12 +1,12 @@
 # Financial Tracker App 💸
 
-## Overview
+### Overview
 This app makes it very easy to keep track of your income and expenses each month, and making sure you're up to date with your balance.
 
-## Live App
+### Live App
 http://expensify-me.surge.sh/
 
-## Technologies
+### Technologies
 HTML, CSS, React, Hooks, Context API
 
 
